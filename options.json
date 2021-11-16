@@ -1,9 +1,9 @@
 {
   "launcher": {
     "version": '0',
-    "force_androbot_update": False,
+    "force_androbot_update": 'False',
     "remote_message': '',
-    "force_stop": False
+    "force_stop": 'False'
       
   },
   "androbot":{
