@@ -1,0 +1,15 @@
+Launcher
+  # Enter Launcher version
+  version = '0.1'
+  # Stop Launcher from being used
+  force_stop = False
+  # Add an remote message
+  remote_message = ''
+  
+  # Force to update AndroBot
+  force_update = True
+
+AndroBot
+  # Enter AndroBot version
+  version = '0.1'
+  
