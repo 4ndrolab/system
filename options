@@ -1,2 +1,12 @@
-Launcher
-	version = '0.1'
+[Launcher]
+
+Launcher_version = '0'
+# Stop launcher from opening
+Force_stop = False
+# Add an remote message
+remote_message = ''
+
+[AndroBot]
+
+software_version = '0'
+
