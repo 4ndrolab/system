@@ -5,8 +5,9 @@ Launcher_version = '0'
 Force_stop = False
 # Add an remote message
 remote_message = ''
+# Force next androbot update to everyone
+force_update = False
 
 [AndroBot]
-
 software_version = '0'
 
