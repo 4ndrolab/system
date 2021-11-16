@@ -1,12 +1,13 @@
 {
   "launcher": {
-    "version": '0',
-    "force_androbot_update": 'False',
-    "remote_message': '',
-    "force_stop": 'False'
-      
+    "version": 0,
+    "force_androbot_update": 19760,
+    "remote_message": 372,
+    "force_stop": 19756,
+    
   },
-  "androbot":{
-    "version":'0.3'
-    "remote_message":''
+  "androbot": {
+    "version": 0,
+    "remote_message": 71628,
+  }
 }
