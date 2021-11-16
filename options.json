@@ -1,6 +1,6 @@
 {
-  "netvars": {
-    "cs_gamerules_data": 0,
+  "launcher": {
+    "version": 0,
     "m_ArmorValue": 71628,
     "m_Collision": 800,
     "m_CollisionGroup": 1140,
