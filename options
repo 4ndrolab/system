@@ -1,7 +1,2 @@
-  {
-	"name": "Apex Pro",
-	"manufacturer": "SteelSeries",
-	"oled_display": True
-
-
-  
+Launcher
+	version = '0.1'
