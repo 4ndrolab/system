@@ -3,7 +3,7 @@
     "version": "v0.1",
     "force_androbot_update": "True",
     "remote_message": "",
-    "force_stop": "True",
+    "force_stop": "False",
     "download_link": "https://drive.google.com/uc?export=download&id=132HYjmWroAFZPHoK7nKN3OOd6meILxLe"
 },
   "androbot": {
