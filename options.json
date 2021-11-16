@@ -2,12 +2,12 @@
   "launcher": {
     "version": "v0.3",
     "force_androbot_update": "True",
-    "remote_message": 372,
-    "force_stop": 19756,
+    "remote_message": "",
+    "force_stop": "False",
     "download_link": "https://drive.google.com/uc?export=download&id=1A-nqJ43aeKJSBWx_ZviLsHPGn8ylKMfq"
 },
   "androbot": {
     "version": 0,
-    "remote_message": 71628
+    "remote_message": ""
   }
 }
