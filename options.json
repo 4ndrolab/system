@@ -1,7 +1,7 @@
 {
   "launcher": {
     "version": 0,
-    "force_androbot_update": True,
+    "force_androbot_update": "True",
     "remote_message": 372,
     "force_stop": 19756
 },
