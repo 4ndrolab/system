@@ -4,7 +4,7 @@
     "force_androbot_update": "True",
     "remote_message": "",
     "force_stop": "False",
-    "download_link": "https://drive.google.com/uc?export=download&id=1bANboBFUXZ2jezol9hQOCIf05hqnhbxb"
+    "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
 },
   "androbot": {
     "version": "v0.3",
