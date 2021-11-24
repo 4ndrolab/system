@@ -1,9 +1,9 @@
 {
   "launcher": {
     "version": "v0.1",
-    "force_androbot_update": "False",
+    "force_androbot_update": "false",
     "remote_message": "",
-    "force_stop": "False",
+    "force_stop": "false",
     "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
 },
   "androbot": {
