@@ -3,6 +3,7 @@
     "version": "v0.1",
     "force_androbot_update": "false",
     "remote_message": "",
+    "updates":"New login,I like Apples,Hello World",
     "force_stop": "false",
     "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
 },
