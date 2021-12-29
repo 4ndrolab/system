@@ -3,7 +3,7 @@
     "version": "v0.1",
     "force_androbot_update": "false",
     "remote_message": "",
-    "updates":"Bot now can stop at any given level and rotate account (10,11,30),Failsafe function has been improved, now it can handle more exceptions in better ways,Fixed a problem where AndroBot crushes at start-up,Fixed a problem where disabling auto-rotate in some cases stops the program from working,Bot can disenchant every champion shard,Improved login (way faster, light-weight, can work on background, able to detect updates, clicks play button),Overall more light-weight and fast experience (Lobby, champion select, loading screen, end of game), Bot now changes summoner spells  at level <=10 to Flash,Heal",
+    "updates":"Lobby, champion select, loading screen, end of game), Bot now changes summoner spells  at level <=10 to Flash,Heal",
     "force_stop": "false",
     "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
 },
