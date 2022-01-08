@@ -8,7 +8,7 @@
     "download_link": "https://github.com/4ndrolab/system/releases/download/test/AndroBot.zip"
 },
   "androbot": {
-    "version": "v0.3",
+    "version": "v0.4",
     "remote_message": " ",
     "force_stop_version":"v0.2",
     "block_machine_id":"machine_id_1,machine_id2,machine_id_3",
