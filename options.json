@@ -9,7 +9,7 @@
 },
   "androbot": {
     "version": "v0.4",
-    "remote_message": " ",
+    "remote_message": "Please make sure you have changed in-game settings to the one mentioned in the ReadMe",
     "force_stop_version":"v0.2",
     "block_machine_id":"machine_id_1,machine_id2,machine_id_3",
     "block_ip":"123.345.324,123.546.534",
